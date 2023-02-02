@@ -5,6 +5,8 @@ urlpatterns = [
  path('',index),
  path('userlogin/',userlog),
  path('register/',register),
+ path('userauthetification/',userauth),
+ path('verification/<auth_token>',verify),
  path('shoplog/',shoplog),
  path('shopreg/',shopreg),
  path('shopregdisplay/',spregdiplay),
@@ -20,5 +22,7 @@ urlpatterns = [
  path('itemremove/<int:id>',itemremove),
  path('itembuy/<int:id>',itembuy),
  path('profilepage/',profile),
- path('userprofile/',userprofile)
+ path('userprofile/',userprofile),
+ path('Address/',Address),
+ path('loginfailed/',loginfail)
 ]

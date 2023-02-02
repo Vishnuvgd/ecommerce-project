@@ -9,10 +9,10 @@
 </head>
 <body>
 {% include 'navbar.html' %}
-<div class="container-fluid row" style="margin-left:220px;padding-right:200px;">
+<div class="container row px-5" style="margin-left:8%;padding-top:50px;">
     {% for i,j,k,l,m in mylist %}
-    <div class="col-3 mt-3 mx-2">
-    <div class="card" style="width: 18rem;">
+    <div class="col-3">
+    <div class="card my-2" style="width: 15rem;">
         <img src="{% static k %}" height="200px" width="100px;" class="card-img-top" alt="...">
        <div class="card-body">
        <h5 class="card-title">{{j}}</h5>

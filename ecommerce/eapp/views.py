@@ -1,4 +1,10 @@
 import os
+import uuid
+
+from django.conf.global_settings import EMAIL_HOST_USER
+from django.contrib import messages
+from django.contrib.auth import authenticate
+from django.core.mail import send_mail
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from .forms import *
@@ -30,8 +36,12 @@ def userlog(request):
                 if em==i.email and psw==i.password:
                     return render(request,'userprofile.html',{'id':id,'uname':uname})
             else:
-                 return HttpResponse("login failed")
+                 return redirect(loginfail)
     return render(request,'userlogin.html')
+
+#loginfailed
+def loginfail(request):
+    return render(request,'loginfailed.html')
 
 def register(request):
     if request.method=='POST':
@@ -47,6 +57,85 @@ def register(request):
             return HttpResponse("failed..")
     return render(request,'register.html')
 
+# ==================================================
+
+#userauthentication
+def userauth(request):
+    if request.method=='POST':
+        us=request.POST.get("name")
+        em=request.POST.get("email")
+        ps=request.POST.get("password")
+
+        if User.objects.filter(username=us).first():
+            #it will get first object from filter query
+            messages.success(request,"user name already taken")
+            #messages.success() it is function that is used send message from backend to front end
+            return redirect(userauth)
+        if User.objects.filter(email=em).first():
+            messages.success(request,"email already taken")
+            return redirect(userauth)
+
+        user_obj=User(username=us,email=em)
+        user_obj.set_password(ps)
+        user_obj.save()
+        auth_token=str(uuid.uuid4())
+        #uuid(universaly unique identifiers),uuid4() create random UUID
+
+        #new model
+        profile_obj=profile.objects.create(user=user_obj,auth_token=auth_token)
+        profile_obj.save()
+        #user defined function
+        send_mail_regis(em,auth_token)
+        return render(request,'success.html')
+    return render(request,'register.html')
+
+def send_mail_regis(email,auth_token):
+    subject="your account has be verified"
+    message=f'paste the link to verify your account http://127.0.0.1:8000/verification/{auth_token}'
+    #f--> string formater
+
+    email_from=EMAIL_HOST_USER #from
+    recipient=[email] #to
+    send_mail(subject,message,email_from,recipient)
+
+def verify(request,auth_token):
+    profile_obj=profile.objects.filter(auth_token=auth_token).first()
+    if profile_obj:
+        if profile_obj.is_verified: #if profile object is false
+            messages.success(request,'your account has been verified')
+            return redirect(login)
+        profile_obj.is_verified=True
+        profile_obj.save()
+        messages.success(request, 'your account has been verified')
+        return redirect(login)
+    else:
+        messages.success(request,"user not found")
+        return redirect(login)
+
+def login(request):
+    if request.method=='POST':
+        email=request.POST.get('email')
+        password=request.POST.get('password')
+        user_obj = User.objects.filter(email=email).first()
+        # user_obj=shan
+        if user_obj is None:
+            messages.success(request, 'user not found')
+            return HttpResponse("user not found")
+        profile_obj = profile.objects.filter(user=user_obj).first()
+        if not profile_obj.is_verified:  # if not profile is false
+            messages.success(request, 'profile not verified check your mail')
+            return HttpResponse("profile not verified")
+        user = authenticate(email=email,password=password)
+        # user=valid
+        # if the given credentials are valid ,return User object.
+        if user is None:
+
+            messages.success(request, 'wrong password or username')
+            return HttpResponse("password")
+        return HttpResponse('success')
+    return render(request, 'userlogin.html')
+
+ # =============================================================
 
 def shopreg(request):
     if request.method == 'POST':
@@ -99,8 +188,9 @@ def shoplog(request):
                 if em==i.semail and psw==i.spassword:
                     return render(request,'profilepage.html',{'id':id,'user':user})
             else:
-                 return HttpResponse("login failed")
+                 return redirect(loginfail)
     return render(request, 'shoplogin.html')
+
 
 #fileupload
 def itemupload(request):
@@ -242,7 +332,7 @@ def itemremove(request,id):
 
 #productbuy
 def itembuy(request,id):
-    a = addcartmodel.objects.get (id=id)
+    a = addcartmodel.objects.get(id=id)
     if request.method == 'POST':
         # a.iname = request.POST.get ('iname')
         # a.iprice = request.POST.get ('iprice')
@@ -253,3 +343,6 @@ def itembuy(request,id):
         total=int(item_price)*int(item_quantity)
         return render(request,'productBill.html',{'itemname':item_name,'ip':item_price,'iq':item_quantity,'t':total})
     return render(request,'productbuy.html',{'a': a})
+
+def Address(request):
+    return render(request,'Address.html')
