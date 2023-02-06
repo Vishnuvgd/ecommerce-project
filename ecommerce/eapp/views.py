@@ -62,7 +62,7 @@ def register(request):
 #userauthentication
 def userauth(request):
     if request.method=='POST':
-        us=request.POST.get("name")
+        us=request.POST.get("username")
         em=request.POST.get("email")
         ps=request.POST.get("password")
 
@@ -296,6 +296,7 @@ def addcart(request,id):
     b=addcartmodel(cartimage=a.image,cartname=a.name, cartprice=a.price, cartdescription=a.description)
     b.save()
     return redirect(cartdisplay)
+
 
 def cartdisplay(request):
     id=[]

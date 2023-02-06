@@ -1,0 +1,481 @@
+.ribbon {
+
+    overflow: hidden;
+    --ribbon-background-color: #f5f5f7;
+    --ribbon-text-color: #1d1d1f;
+    --ribbon-link-color: #06c;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+}
+.ribbon-content-wrapper {
+    text-align: center;
+}
+.ribbon-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+
+}
+@media only screen and (min-width: 1441px) {
+    .ribbon-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 980px;
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .ribbon-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 692px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .ribbon-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 87.5%;
+    }
+}
+.ribbon-link {
+    white-space: nowrap;
+}
+.ribbon-link:focus {
+    text-decoration: underline;
+}
+.ribbon .ribbon-content-wrapper {
+    padding-top: 0.94118em;
+    padding-bottom: 0.94118em;
+}
+.ribbon .ribbon-content-wrapper.iphone14pro {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.ribbon .ribbon-content {
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -0.016em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(ko) {
+    line-height: 1.57143;
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(zh) {
+    line-height: 1.5;
+    letter-spacing: 0em;
+}
+.ribbon .ribbon-content:lang(th) {
+    line-height: 1.35718;
+    letter-spacing: 0em;
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.ribbon .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.ribbon .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.ribbon .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.ribbon-elevated .ribbon-content-wrapper {
+    padding-top: 1.41176em;
+    padding-bottom: 1.41176em;
+}
+.ribbon-elevated .ribbon-content {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(ko) {
+    line-height: 1.58824;
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(zh) {
+    letter-spacing: 0em;
+}
+.ribbon-elevated .ribbon-content:lang(th) {
+    line-height: 1.35296;
+    letter-spacing: 0em;
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-elevated .ribbon-content:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.ribbon-blue {
+    --ribbon-background-color: #0071e3;
+    --ribbon-text-color: #fff;
+    --ribbon-link-color: #fff;
+    --ribbon-focus-color: rgba(255, 255, 255, 0.6);
+}
+.ribbon-blue .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.ribbon-blue .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.ribbon-blue .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.ribbon-blue .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.ribbon-blue-to-default {
+    --ribbon-background-color: #f5f5f7;
+    --ribbon-background-color-initial: #0071e3;
+    --ribbon-text-color: #1d1d1f;
+    --ribbon-text-color-initial: #fff;
+    --ribbon-link-color: #06c;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+    --ribbon-link-color-initial: #fff;
+}
+@keyframes animate-background-0071e3-f5f5f7 {
+    0% {
+        background-color: var(--ribbon-background-color-initial);
+    }
+    100% {
+        background-color: var(--ribbon-background-color);
+    }
+}
+.ribbon-blue-to-default .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color-initial);
+    animation: animate-background-0071e3-f5f5f7 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .ribbon-blue-to-default .ribbon-content-wrapper {
+        background-color: var(--ribbon-background-color);
+        animation: none;
+    }
+}
+@keyframes animate-color-fff-1d1d1f {
+    0% {
+        color: var(--ribbon-text-color-initial);
+    }
+    100% {
+        color: var(--ribbon-text-color);
+    }
+}
+.ribbon-blue-to-default .ribbon-content {
+    color: var(--ribbon-text-color-initial);
+    animation: animate-color-fff-1d1d1f 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .ribbon-blue-to-default .ribbon-content {
+        color: var(--ribbon-text-color);
+        animation: none;
+    }
+}
+.ribbon-blue-to-default .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+@keyframes animate-color-fff-06c {
+    0% {
+        color: var(--ribbon-link-color-initial);
+    }
+    100% {
+        color: var(--ribbon-link-color);
+    }
+}
+.ribbon-blue-to-default .ribbon-link {
+    color: var(--ribbon-link-color-initial);
+    animation: animate-color-fff-06c 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .ribbon-blue-to-default .ribbon-link {
+        color: var(--ribbon-link-color);
+        animation: none;
+    }
+}
+.ribbon-drop-wrapper {
+    animation: ribbon-drop 0.8s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+}
+@media (prefers-reduced-motion) {
+    .ribbon-drop-wrapper {
+        animation: none;
+    }
+}
+.theme-dark .ribbon,
+.theme-dark.ribbon {
+    --ribbon-background-color: #1d1d1f;
+    --ribbon-text-color: #f5f5f7;
+    --ribbon-link-color: #2997ff;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+}
+.theme-dark .ribbon .ribbon-content-wrapper,
+.theme-dark.ribbon .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.theme-dark .ribbon .ribbon-content,
+.theme-dark.ribbon .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.theme-dark .ribbon .ribbon-link:focus,
+.theme-dark.ribbon .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.theme-dark .ribbon .ribbon-link,
+.theme-dark.ribbon .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.theme-dark .ribbon-blue,
+.theme-dark.ribbon-blue {
+    --ribbon-background-color: #0071e3;
+    --ribbon-text-color: #fff;
+    --ribbon-link-color: #fff;
+    --ribbon-focus-color: rgba(255, 255, 255, 0.6);
+}
+.theme-dark .ribbon-blue .ribbon-content-wrapper,
+.theme-dark.ribbon-blue .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.theme-dark .ribbon-blue .ribbon-content,
+.theme-dark.ribbon-blue .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.theme-dark .ribbon-blue .ribbon-link:focus,
+.theme-dark.ribbon-blue .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.theme-dark .ribbon-blue .ribbon-link,
+.theme-dark.ribbon-blue .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.theme-dark .ribbon-blue-to-default,
+.theme-dark.ribbon-blue-to-default {
+    --ribbon-background-color: #1d1d1f;
+    --ribbon-background-color-initial: #0071e3;
+    --ribbon-text-color: #f5f5f7;
+    --ribbon-text-color-initial: #fff;
+    --ribbon-link-color: #2997ff;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+    --ribbon-link-color-initial: #fff;
+}
+@keyframes animate-background-0071e3-1d1d1f {
+    0% {
+        background-color: var(--ribbon-background-color-initial);
+    }
+    100% {
+        background-color: var(--ribbon-background-color);
+    }
+}
+.theme-dark .ribbon-blue-to-default .ribbon-content-wrapper,
+.theme-dark.ribbon-blue-to-default .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color-initial);
+    animation: animate-background-0071e3-1d1d1f 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-dark .ribbon-blue-to-default .ribbon-content-wrapper,
+    .theme-dark.ribbon-blue-to-default .ribbon-content-wrapper {
+        background-color: var(--ribbon-background-color);
+        animation: none;
+    }
+}
+@keyframes animate-color-fff-f5f5f7 {
+    0% {
+        color: var(--ribbon-text-color-initial);
+    }
+    100% {
+        color: var(--ribbon-text-color);
+    }
+}
+.theme-dark .ribbon-blue-to-default .ribbon-content,
+.theme-dark.ribbon-blue-to-default .ribbon-content {
+    color: var(--ribbon-text-color-initial);
+    animation: animate-color-fff-f5f5f7 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-dark .ribbon-blue-to-default .ribbon-content,
+    .theme-dark.ribbon-blue-to-default .ribbon-content {
+        color: var(--ribbon-text-color);
+        animation: none;
+    }
+}
+.theme-dark .ribbon-blue-to-default .ribbon-link:focus,
+.theme-dark.ribbon-blue-to-default .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+@keyframes animate-color-fff-2997ff {
+    0% {
+        color: var(--ribbon-link-color-initial);
+    }
+    100% {
+        color: var(--ribbon-link-color);
+    }
+}
+.theme-dark .ribbon-blue-to-default .ribbon-link,
+.theme-dark.ribbon-blue-to-default .ribbon-link {
+    color: var(--ribbon-link-color-initial);
+    animation: animate-color-fff-2997ff 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-dark .ribbon-blue-to-default .ribbon-link,
+    .theme-dark.ribbon-blue-to-default .ribbon-link {
+        color: var(--ribbon-link-color);
+        animation: none;
+    }
+}
+.theme-light .ribbon,
+.theme-light.ribbon {
+    --ribbon-background-color: #f5f5f7;
+    --ribbon-text-color: #1d1d1f;
+    --ribbon-link-color: #06c;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+}
+.theme-light .ribbon .ribbon-content-wrapper,
+.theme-light.ribbon .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.theme-light .ribbon .ribbon-content,
+.theme-light.ribbon .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.theme-light .ribbon .ribbon-link:focus,
+.theme-light.ribbon .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.theme-light .ribbon .ribbon-link,
+.theme-light.ribbon .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.theme-light .ribbon-blue,
+.theme-light.ribbon-blue {
+    --ribbon-background-color: #0071e3;
+    --ribbon-text-color: #fff;
+    --ribbon-link-color: #fff;
+    --ribbon-focus-color: rgba(255, 255, 255, 0.6);
+}
+.theme-light .ribbon-blue .ribbon-content-wrapper,
+.theme-light.ribbon-blue .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color);
+}
+.theme-light .ribbon-blue .ribbon-content,
+.theme-light.ribbon-blue .ribbon-content {
+    color: var(--ribbon-text-color);
+}
+.theme-light .ribbon-blue .ribbon-link:focus,
+.theme-light.ribbon-blue .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+.theme-light .ribbon-blue .ribbon-link,
+.theme-light.ribbon-blue .ribbon-link {
+    color: var(--ribbon-link-color);
+}
+.theme-light .ribbon-blue-to-default,
+.theme-light.ribbon-blue-to-default {
+    --ribbon-background-color: #f5f5f7;
+    --ribbon-background-color-initial: #0071e3;
+    --ribbon-text-color: #1d1d1f;
+    --ribbon-text-color-initial: #fff;
+    --ribbon-link-color: #06c;
+    --ribbon-focus-color: rgba(0, 125, 250, 0.6);
+    --ribbon-link-color-initial: #fff;
+}
+@keyframes animate-background-0071e3-f5f5f7 {
+    0% {
+        background-color: var(--ribbon-background-color-initial);
+    }
+    100% {
+        background-color: var(--ribbon-background-color);
+    }
+}
+.theme-light .ribbon-blue-to-default .ribbon-content-wrapper,
+.theme-light.ribbon-blue-to-default .ribbon-content-wrapper {
+    background-color: var(--ribbon-background-color-initial);
+    animation: animate-background-0071e3-f5f5f7 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-light .ribbon-blue-to-default .ribbon-content-wrapper,
+    .theme-light.ribbon-blue-to-default .ribbon-content-wrapper {
+        background-color: var(--ribbon-background-color);
+        animation: none;
+    }
+}
+@keyframes animate-color-fff-1d1d1f {
+    0% {
+        color: var(--ribbon-text-color-initial);
+    }
+    100% {
+        color: var(--ribbon-text-color);
+    }
+}
+.theme-light .ribbon-blue-to-default .ribbon-content,
+.theme-light.ribbon-blue-to-default .ribbon-content {
+    color: var(--ribbon-text-color-initial);
+    animation: animate-color-fff-1d1d1f 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-light .ribbon-blue-to-default .ribbon-content,
+    .theme-light.ribbon-blue-to-default .ribbon-content {
+        color: var(--ribbon-text-color);
+        animation: none;
+    }
+}
+.theme-light .ribbon-blue-to-default .ribbon-link:focus,
+.theme-light.ribbon-blue-to-default .ribbon-link:focus {
+    outline-color: var(--ribbon-focus-color);
+}
+@keyframes animate-color-fff-06c {
+    0% {
+        color: var(--ribbon-link-color-initial);
+    }
+    100% {
+        color: var(--ribbon-link-color);
+    }
+}
+.theme-light .ribbon-blue-to-default .ribbon-link,
+.theme-light.ribbon-blue-to-default .ribbon-link {
+    color: var(--ribbon-link-color-initial);
+    animation: animate-color-fff-06c 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+}
+@media (prefers-reduced-motion) {
+    .theme-light .ribbon-blue-to-default .ribbon-link,
+    .theme-light.ribbon-blue-to-default .ribbon-link {
+        color: var(--ribbon-link-color);
+        animation: none;
+    }
+}

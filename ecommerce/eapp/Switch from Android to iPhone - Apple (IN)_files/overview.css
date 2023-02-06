@@ -1,0 +1,2342 @@
+.section-hero {
+	display: block;
+}
+
+@media only screen and (max-width: 734px){
+.typography-tile-headline {
+	font-size: 27px;
+}}
+
+@media only screen and (max-width: 734px){
+.section-tiles .tile-copyblock {
+   
+    padding: 0 14px;
+}}
+/* HERO */
+.section-hero .image-hero {
+	width: 1753px;
+	height: 658px;
+	background-size: 1753px 658px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_large.jpg");
+	position: relative;
+	left: 50%;
+	margin-left: -876.5px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-hero .image-hero {
+		background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-hero .image-hero {
+		width: 970px;
+		height: 342px;
+		background-size: 970px 342px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-hero .image-hero {
+		background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-hero .image-hero {
+		width: 596px;
+		height: 225px;
+		background-size: 596px 225px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-hero .image-hero {
+		background-image: url("/in/iphone/switch/images/overview/hero__coiius911fau_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-hero .image-hero {
+		left: 50%;
+		margin-left: -485px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-hero .image-hero {
+		left: 50%;
+		margin-left: -298px;
+	}
+}
+@media only screen and (max-width: 374px) {
+	.section-hero .image-hero {
+		transform: scale(0.8);
+		transform-origin: top center;
+	}
+}
+
+.image-seamless-hardware {
+	background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.image-seamless-hardware {
+		background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.image-seamless-hardware {
+		background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.image-seamless-hardware {
+		background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.image-seamless-hardware {
+		background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.image-seamless-hardware {
+		background-image: url("/in/iphone/switch/images/overview/seamless__e38z8yxpidua_small_2x.jpg");
+	}
+}
+
+.tile-support .image-support {
+	background-image: url("/in/iphone/switch/images/overview/support__fwjxlfbss5u2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-support .image-support {
+		background-image: url("/in/iphone/switch/images/overview/support__fwjxlfbss5u2_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.tile-support .image-support {
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/support__fwjxlfbss5u2_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-support .image-support {
+		background-image: url("/in/iphone/switch/images/overview/support__fwjxlfbss5u2_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width:734px) {
+    .tile-support .image-support { 
+        background-image: url(/in/iphone/switch/images/overview/support__fwjxlfbss5u2_small.jpg)
+    }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px)and (min-resolution:1.5dppx),
+only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .tile-support .image-support {
+        background-image: url(/in/iphone/switch/images/overview/support__fwjxlfbss5u2_small_2x.jpg)
+    }
+}
+
+.image-move {
+	background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.image-move {
+		background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.image-move {
+		background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.image-move {
+		background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.image-move {
+		background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.image-move {
+		background-image: url("/in/iphone/switch/images/overview/move_to_ios__ewwa53yg1mie_small_2x.jpg");
+	}
+}
+
+.section-features .image-personal-seeion {
+	width: 447px;
+	height: 333px;
+	background-size: 447px 333px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_large.png");
+	bottom: 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-personal-seeion {
+		width: 357px;
+		height: 156px;
+		background-size: 357px 156px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_medium.png");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_medium_2x.png");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-personal-seeion {
+		width: 101px;
+		height: 101px;
+		background-size: 101px 101px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_small.png");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_small_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-personal-seeion {
+		top: 244px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-personal-seeion {
+		top: 161px;
+	}
+}
+
+.section-features .image-reliability {
+	width: 1130px;
+	height: 415px;
+	background-size: 1130px 201px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_large.jpg");
+	bottom: 126px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-reliability {
+		width: 120px;
+		height: 118px;
+		background-size: 120px 118px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-reliability {
+		width: 122px;
+		height: 121px;
+		background-size: 122px 121px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-reliability {
+		bottom: 92px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-reliability {
+		bottom: 84px;
+	}
+}
+
+.image-imessage {
+	background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_large.jpg");
+	bottom: -8px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.image-imessage {
+		background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.image-imessage {
+		background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.image-imessage {
+		background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.image-imessage {
+		background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.image-imessage {
+		background-image: url("/in/iphone/switch/images/overview/imessage__7r8mtruicmam_small_2x.jpg");
+	}
+}
+
+/*bottom styles*/
+.flex-tile-wrapper {
+	width: auto;
+	flex-wrap: wrap;
+	overflow: hidden;
+	max-width: 1440px;
+	margin: 0 auto;
+	padding: 0 10px;
+	box-sizing: border-box;
+}
+@media only screen and (max-width: 1068px) {
+	.flex-tile-wrapper {
+		max-width: 776px;
+		padding: 0 20px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.flex-tile-wrapper {
+		flex-direction: column;
+		padding: 0;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.flex-tile-wrapper .tile-wrapper {
+		width: 100%;
+	}
+}
+.two-up-tile-wrapper {
+	margin: 0 auto;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	-webkit-box-flex: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 10px;
+}
+.two-up-tile-wrapper .typography-tile-copy {
+	font-size: 21px;
+	line-height: 1.381;
+	font-weight: 400;
+	letter-spacing: 0.011em;
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+}
+@media only screen and (max-width: 1068px) {
+	.two-up-tile-wrapper {
+		padding: 5px;
+	}
+	.two-up-tile-wrapper .typography-tile-copy {
+		font-size: 17px;
+		line-height: 1.47059;
+		font-weight: 400;
+		letter-spacing: -0.022em;
+		font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+}
+.two-up-tile-wrapper .content-wrapper {
+	width: 100%;
+	min-height: 550px;
+	/*border-radius: var(--features-tile-border-radius);*/
+	overflow: hidden;
+	height: 100%;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+.two-up-tile-wrapper .content-wrapper {
+}
+@media only screen and (max-width: 734px) {
+	.two-up-tile-wrapper {
+		padding: 5px 0;
+	}
+	.two-up-tile-wrapper .content-wrapper {
+		margin: 5px;
+	}
+}
+.two-up-tile-wrapper {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	flex-grow: 1;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+}
+@media only screen and (max-width: 1068px) {
+	.two-up-tile-wrapper {
+		margin-bottom: 20px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.two-up-tile-wrapper {
+		margin-bottom: 15px;
+	}
+}
+.two-up-tile-wrapper .content-wrapper {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.two-up-tile-wrapper .background-wrapper {
+	background: #000;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+.two-up-tile-wrapper .background-wrapper .image-wrapper {
+	position: relative;
+	width: 100%;
+}
+.two-up-tile-wrapper.left {
+	padding-right: 15px;
+}
+@media only screen and (max-width: 1068px) {
+	.two-up-tile-wrapper.left {
+		padding-right: 10px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.two-up-tile-wrapper.left {
+		padding: 0;
+	}
+}
+.two-up-tile-wrapper.right {
+	padding-left: 30px;
+}
+@media only screen and (max-width: 1068px) {
+	.two-up-tile-wrapper.right {
+		padding-left: 10px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.two-up-tile-wrapper.right {
+		padding: 0;
+	}
+}
+.two-up-tile-wrapper .tile-headline {
+	margin-top: 52px;
+}
+@media only screen and (max-width: 1068px) {
+	.two-up-tile-wrapper .tile-headline {
+		margin-top: 40px;
+	}
+}
+.tile-virtual-sessions .banner-container {
+	margin: 0 auto;
+	max-width: 1440px;
+	display: flex;
+	background: #fff;
+	overflow: hidden;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .banner-container {
+		flex-wrap: wrap;
+	}
+}
+.tile-virtual-sessions .flex-copy-wrapper {
+	display: flex;
+	flex-shrink: 0;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	box-sizing: border-box;
+	padding-left: 100px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper {
+		padding-left: 0px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .flex-copy-wrapper {
+		padding-top: 63px;
+		padding-bottom: 68px;
+	}
+}
+.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+	margin-top: 11px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+		margin-top: 6px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+		margin-top: 7px;
+	}
+}
+.tile-virtual-sessions .flex-copy-wrapper .tile-copy {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 300px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-copy {
+		max-width: 260px;
+	}
+}
+.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+	margin-top: 14px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+		margin-top: 6px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+		z-index: 10;
+		margin-top: 7px;
+	}
+}
+
+.tile-virtual-sessions .image-wrapper {
+	overflow: hidden;
+	display: flex;
+	justify-content: flex-end;
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .image-wrapper {
+		justify-content: unset;
+		overflow: visible;
+	}
+}
+.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+	width: 703px;
+	height: 504px;
+	background-size: 703px 504px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_large.jpg");
+	margin-left: 100px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		width: 378px;
+		height: 350px;
+		background-size: 378px 350px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		width: 736px;
+		height: 214px;
+		background-size: 736px 214px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		background-image: url("/in/iphone/switch/images/overview/virtual_sessions__gio0zwbyrvmi_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		margin-left: -10px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .image-wrapper .virtual-sessions-image {
+		left: 50%;
+		margin-left: -368px;
+		position: relative;
+		margin-top: -18px;
+	}
+}
+
+.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+	margin-top: 11px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+		margin-top: 6px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-headline {
+		margin-top: 7px;
+	}
+}
+
+.tile-virtual-sessions .flex-copy-wrapper .tile-copy {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 300px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .tile-copy {
+		max-width: 260px;
+	}
+}
+.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+	margin-top: 14px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+		margin-top: 6px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-virtual-sessions .flex-copy-wrapper .cta-wrapper {
+		z-index: 10;
+		margin-top: 7px;
+	}
+}
+.tv-multi-show .apple-tv-plus {
+	background-color: #111;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	overflow: hidden;
+	height: 600px;
+	min-height: 600px;
+}
+html.text-zoom .tv-multi-show .apple-tv-plus {
+	height: auto;
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus {
+		height: 277px;
+		min-height: 277px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		height: 530px;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-copy {
+	height: 100%;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: start;
+	-ms-flex-align: start;
+	align-items: flex-start;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	text-align: left;
+	padding-left: 75px;
+	padding-right: 0;
+	color: #fff;
+	min-width: 565px;
+	z-index: 1;
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-copy {
+		min-width: 300px;
+		padding-top: 0;
+		padding-left: 34px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-copy {
+		height: inherit;
+		min-width: 100%;
+		display: block;
+		margin-right: 0;
+		padding-top: 48px;
+		padding-left: 0;
+		text-align: center;
+	}
+}
+html.text-zoom .tv-multi-show .apple-tv-plus .promo-copy {
+	-ms-flex-item-align: center;
+	align-self: center;
+}
+.tv-multi-show .apple-tv-plus .promo-headline {
+	width: 98px;
+	height: 39px;
+	background-size: 98px 39px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_large.png");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		width: 64px;
+		height: 26px;
+		background-size: 64px 26px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_medium.png");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_medium_2x.png");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		width: 64px;
+		height: 26px;
+		background-size: 64px 26px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_small.png");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus_logo__elhpe3osiyky_small_2x.png");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-headline {
+		position: relative;
+		left: 50%;
+		margin-left: -49px;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt {
+	font-size: 28px;
+	line-height: 1.14286;
+	font-weight: 600;
+	letter-spacing: 0.007em;
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ko) {
+	line-height: 1.25;
+	font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(th) {
+	line-height: 1.39286;
+	font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ar) {
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ja) {
+	font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro",
+		"Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3",
+		"Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª", "Meiryo",
+		"Ã¯Â¼Â­Ã¯Â¼Â³ Ã¯Â¼Â°Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt {
+		font-size: 21px;
+		line-height: 1.19048;
+		font-weight: 600;
+		letter-spacing: 0.011em;
+		font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ja) {
+		line-height: 1.2381;
+		font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons",
+			"Hiragino Kaku Gothic Pro",
+			"Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3",
+			"Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª", "Meiryo",
+			"Ã¯Â¼Â­Ã¯Â¼Â³ Ã¯Â¼Â°Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ko) {
+		line-height: 1.2858;
+		font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons",
+			"Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(th) {
+		line-height: 1.381;
+		font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(ar) {
+		font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display",
+			"SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons",
+			"PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-HK) {
+		font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons",
+			"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-MO) {
+		font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons",
+			"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt:lang(zh-TW) {
+		font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons",
+			"PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-subhead-alt {
+	margin-top: 20px;
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt {
+		margin-top: 19px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-subhead-alt {
+		max-width: 320px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li {
+	font-size: 21px;
+	line-height: 1.381;
+	font-weight: 400;
+	letter-spacing: 0.011em;
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ar) {
+	line-height: 1.52381;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ja) {
+	line-height: 1.4286;
+	font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro",
+		"Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3",
+		"Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª", "Meiryo",
+		"Ã¯Â¼Â­Ã¯Â¼Â³ Ã¯Â¼Â°Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ko) {
+	line-height: 1.52381;
+	font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(th) {
+	line-height: 1.381;
+	font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li {
+		font-size: 17px;
+		line-height: 1.47059;
+		font-weight: 400;
+		letter-spacing: -0.022em;
+		font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ar) {
+		line-height: 1.58824;
+		letter-spacing: 0em;
+		font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ja) {
+		letter-spacing: 0em;
+		font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+			"Hiragino Kaku Gothic Pro",
+			"Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3",
+			"Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª", "Meiryo",
+			"Ã¯Â¼Â­Ã¯Â¼Â³ Ã¯Â¼Â°Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(ko) {
+		line-height: 1.58824;
+		letter-spacing: 0em;
+		font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+			"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh) {
+		letter-spacing: 0em;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(th) {
+		line-height: 1.35296;
+		letter-spacing: 0em;
+		font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-HK) {
+		font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-MO) {
+		font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+			"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:lang(zh-TW) {
+		font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li:first-child {
+	margin-left: 0;
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li {
+		margin-top: 0px;
+	}
+}
+.tv-multi-show .apple-tv-plus .promo-copy .links-stacked li .icon-copy, .tv-multi-show .apple-tv-plus .promo-copy .links-stacked li .icon-after {
+	color: #2997ff;
+}
+.tv-multi-show .apple-tv-plus .promo-image {
+	background-size: 992px 600px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_large.jpg");
+	width: auto;
+	height: 100%;
+	margin-left: -175px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tv-multi-show .apple-tv-plus .promo-image {
+		width: 400px;
+		height: 277px;
+		background-size: 400px 277px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_medium.jpg");
+		margin-left: 30px;
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tv-multi-show .apple-tv-plus .promo-image {
+		width: 735px;
+		height: 273px;
+		background-size: 735px 273px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_small.jpg");
+		left: 50%;
+		margin-left: -367.5px;
+		position: relative;
+		margin-bottom: 9px;
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.tv-multi-show .apple-tv-plus .promo-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_tv_plus__d9jf24ei3bqu_small_2x.jpg");
+	}
+}
+.tile-apple-music .tile-headline-image {
+	width: 156px;
+	height: 39px;
+	background-size: 156px 39px;
+	background-repeat: no-repeat;
+	background-image: url("/v/iphone/home/ay/images/overview/more-iphone/apple_music_logo__ocze2os441m6_large.png");
+	margin: 0 auto;
+	margin-top: 70px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-apple-music .tile-headline-image {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/apple_music_logo__ocze2os441m6_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .tile-headline-image {
+		width: 100px;
+		height: 26px;
+		background-size: 100px 26px;
+		background-repeat: no-repeat;
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/apple_music_logo__ocze2os441m6_medium.png");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-apple-music .tile-headline-image {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/apple_music_logo__ocze2os441m6_medium_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .tile-headline-image {
+		margin-top: 44px;
+	}
+}
+.tile-apple-music.availability .tile-headline-image {
+	margin-top: 68px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music.availability .tile-headline-image {
+		margin-top: 44px;
+	}
+}
+.tile-apple-music .tile-copy {
+	margin-top: 15px;
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .tile-copy {
+		margin-top: 19px;
+	}
+}
+.tile-apple-music .tile-cta, .tile-apple-music .trial-cta {
+	display: inline-block;
+	margin-top: 5px;
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .tile-cta, .tile-apple-music .trial-cta {
+		margin-top: 7px;
+	}
+}
+.tile-apple-music .trial-cta {
+	margin-left: 15px;
+	margin-right: 15px;
+	display: inline-block;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .trial-cta {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+.tile-apple-music .trial-cta .footnote {
+	position: relative;
+}
+.tile-apple-music .trial-cta .icon-external:after {
+	padding: 0;
+}
+.tile-apple-music .tile-cta {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .tile-cta {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+.tile-apple-music .tile-copy {
+	color: #1d1d1f;
+}
+.tile-apple-music .cta-color {
+	color: #06c;
+}
+.tile-apple-music .content-wrapper {
+	overflow: hidden;
+	background-color: #fff;
+	min-height: 600px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .content-wrapper {
+		min-height: 350px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .content-wrapper {
+		min-height: 490px;
+	}
+}
+.tile-apple-music .image-wrapper {
+	width: 554px;
+	height: 384px;
+	width: 100%;
+	position: relative;
+	flex: none;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .image-wrapper {
+		width: 295px;
+		height: 204px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .image-wrapper {
+		width: 413px;
+		height: 287px;
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .image-wrapper {
+		width: 100%;
+	}
+}
+.tile-apple-music .music-image {
+	width: 554px;
+	height: 384px;
+	background-size: 554px 384px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_large.jpg");
+	position: relative;
+	left: 50%;
+	margin-left: -277px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-apple-music .music-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .music-image {
+		width: 295px;
+		height: 204px;
+		background-size: 295px 204px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-apple-music .music-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .music-image {
+		width: 413px;
+		height: 287px;
+		background-size: 413px 287px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.tile-apple-music .music-image {
+		background-image: url("/in/iphone/switch/images/overview/apple_music__dukr9h4bvfqu_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-music .music-image {
+		left: 50%;
+		margin-left: -147.5px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-music .music-image {
+		left: 50%;
+		margin-left: -206.5px;
+	}
+}
+.tile-apple-arcade {
+	overflow: hidden;
+}
+.tile-apple-arcade .tile-headline-image {
+	width: 180px;
+	height: 39px;
+	background-size: 180px 39px;
+	background-repeat: no-repeat;
+	background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/logo_apple_arcade__bq1yixqdz9f6_large.png");
+	margin: 0 auto;
+	margin-top: 69px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-apple-arcade .tile-headline-image {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/logo_apple_arcade__bq1yixqdz9f6_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .tile-headline-image {
+		width: 116px;
+		height: 26px;
+		background-size: 116px 26px;
+		background-repeat: no-repeat;
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/logo_apple_arcade__bq1yixqdz9f6_medium.png");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-apple-arcade .tile-headline-image {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/logo_apple_arcade__bq1yixqdz9f6_medium_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .tile-headline-image {
+		margin-top: 44px;
+	}
+}
+.tile-apple-arcade .content-wrapper {
+	background-size: 675px 582px;
+	background-repeat: no-repeat;
+	background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_large.jpg");
+	background-color: #fff;
+	background-position: center bottom;
+	position: relative;
+	overflow: hidden;
+	min-height: 600px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.tile-apple-arcade .content-wrapper {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .content-wrapper {
+		background-size: 358px 283px;
+		background-repeat: no-repeat;
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.tile-apple-arcade .content-wrapper {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-arcade .content-wrapper {
+		background-size: 734px 422px;
+		background-repeat: no-repeat;
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.tile-apple-arcade .content-wrapper {
+		background-image: url("/v/iphone/home/ay/images/overview/more-iphone/arcade/apple_arcade__d3ua4q5up2aa_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .content-wrapper {
+		min-height: 350px;
+	}
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+	.tile-apple-arcade .content-wrapper {
+		background-position: center 92px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-arcade .content-wrapper {
+		min-height: 490px;
+	}
+}
+html.text-zoom .tile-apple-arcade .content-wrapper {
+	background-position: 50% 7em;
+}
+@media only screen and (max-width: 1068px) {
+	html.text-zoom .tile-apple-arcade .content-wrapper {
+		background-position: 50% 9em;
+	}
+}
+.tile-apple-arcade .tile-copy-1 {
+	margin-top: 15px;
+	max-width: 360px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .tile-copy-1 {
+		max-width: 270px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-arcade .tile-copy-1 {
+		margin-top: 19px;
+	}
+}
+.tile-apple-arcade .links-inline {
+	margin-top: 6px;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .links-inline {
+		max-width: 270px;
+	}
+}
+.tile-apple-arcade .links-inline li:first-child, .tile-apple-arcade .links-inline li:last-child {
+	margin: 0 0.5em;
+}
+.tile-apple-arcade .trial-cta .icon-external:after {
+	padding: 0;
+}
+.tile-apple-arcade .tile-cta {
+	margin-right: 4px;
+	margin-left: 4px;
+	display: inline-block;
+}
+@media only screen and (max-width: 1068px) {
+	.tile-apple-arcade .tile-cta {
+		margin-right: 0;
+		margin-left: 0;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-apple-arcade .tile-cta {
+		margin-right: 8px;
+		margin-left: 8px;
+	}
+}
+.section-features .image-personal-seeion {
+	width: 690px;
+	height: 299px;
+	background-size: 690px 299px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_large.png");
+	bottom: -1px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-personal-seeion {
+		width: 357px;
+		height: 156px;
+		background-size: 357px 156px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_medium.png");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_medium_2x.png");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-personal-seeion {
+		width: 414px;
+		height: 182px;
+		background-size: 414px 182px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_small.png");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-features .image-personal-seeion {
+		background-image: url("/in/iphone/switch/images/overview/support_icon__lmrc3w3bd2aq_small_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-personal-seeion {
+		top: 244px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-personal-seeion {
+		top: 176px;
+	}
+}
+
+.section-features .image-reliability {
+	width: 1130px;
+	height: 415px;
+	background-size: 1130px 415px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_large.jpg");
+	bottom: 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-reliability {
+		width: 693px;
+		height: 330px;
+		background-size: 693px 330px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-reliability {
+		width: 414px;
+		height: 238px;
+		background-size: 414px 238px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-features .image-reliability {
+		background-image: url("/in/iphone/switch/images/overview/reliability__fztfbfk13amq_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-reliability {
+		bottom: 0;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-reliability {
+		bottom: 0;
+	}
+}
+.section-features .image-battery {
+	width: 331px;
+	height: 167px;
+	background-size: 331px 167px;
+	background-repeat: no-repeat;
+	background-image: url(/in/iphone/switch/images/overview/battery__cm2obf3rl0ty_large.jpg);
+	margin-right: auto;
+	bottom: 120px;
+	margin-left: 12px;
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	.section-features .image-battery {
+		background-image: url(/in/iphone/switch/images/overview/battery__cm2obf3rl0ty_large_2x.jpg);
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-battery {
+		width: 214px;
+		height: 109px;
+		background-size: 214px 109px;
+		background-repeat: no-repeat;
+		background-image: url(/in/iphone/switch/images/overview/battery__cm2obf3rl0ty_medium.jpg);
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-battery {
+		background-image: url(/in/iphone/switch/images/overview/battery__cm2obf3rl0ty_medium_2x.jpg);
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-battery {
+		bottom: 70px;
+		margin-left: 26px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-battery {
+		bottom: 51px;
+		margin-left: 22px;
+	}
+}
+
+/*image security*/
+.section-features .image-security {
+	width: 205px;
+	height: 221px;
+	background-size: 205px 221px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_large.jpg");
+	bottom: 94px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-features .image-security {
+		background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-security {
+		width: 120px;
+		height: 129px;
+		background-size: 120px 129px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-features .image-security {
+		background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-security {
+		width: 122px;
+		height: 136px;
+		background-size: 122px 136px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-features .image-security {
+		background-image: url("/in/iphone/switch/images/overview/image_security__epo1bh2pbca6_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-features .image-security {
+		bottom: 92px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-features .image-security {
+		bottom: 72px;
+	}
+}
+/*testimoji tiles*/
+/*.section-tiles .tile .icon-wrapper {
+	color: #1d1d1f;
+}*/
+.typography-overview-feature-copy.feature-excerpt {
+	font-size: 21px;
+	color: #000;
+	text-align: center;
+}
+.tile-content .testimony-copy {
+	position: relative;
+	z-index: 2;
+	min-height: 550px;
+	background: white;
+	width: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+@media only screen and (max-width: 1068px) {
+	.full-width-testimony-tile .tile-content .testimony-copy {
+		min-height: 400px;
+	}
+}
+
+.section-tiles .flex-content.content-flex-start {
+	justify-content: flex-start;
+}
+
+@media only screen and (min-width: 1069px) {
+	.section-testimoji .tile-camera .tile-image {
+		left: 0;
+	}
+}
+.tile-content .tile-button-wrapper .playback-button {
+	background-size: 136px 136px;
+	background-position: center center;
+	width: calc(100% - 400px);
+	height: 550px;
+	margin: 0;
+	-webkit-transition: opacity 1s;
+	transition: opacity 1s;
+	opacity: 1;
+	background-repeat: no-repeat;
+	margin-left: 400px;
+}
+@media only screen and (max-width: 1410px) {
+	.tile-content .tile-button-wrapper .playback-button {
+		width: calc(70vw - 40px);
+		height: calc(40vw - 23px);
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.tile-content .tile-button-wrapper .playback-button {
+		width: 363px;
+		height: 363px;
+		background-size: 80px 80px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-content .tile-button-wrapper .playback-button {
+		width: 100%;
+		min-height: auto;
+		width: calc(100vw - 19px);
+		height: calc(100vw - 19px);
+		max-height: 415px;
+		max-width: 415px;
+		background-size: 75px 75px;
+		margin-left: 0px;
+	}
+}
+
+.tile-content .tile-button-wrapper .playback-button {
+	background-image: url("/in/iphone/switch/images/overview/testimony/play_icon_active_large.png");
+}
+@media only screen and (max-width: 1068px) {
+	.tile-content .tile-button-wrapper .playback-button {
+		background-image: url("/in/iphone/switch/images/overview/testimony/play_icon_active_medium.png");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.tile-content .tile-button-wrapper .playback-button {
+		background-image: url("/in/iphone/switch/images/overview/testimony/play_icon_active_small.png");
+	}
+}
+
+.section-testimoji .image-shoot-4k {
+	width: 1400px;
+	height: 550px;
+	background-size: 1400px 550px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-testimoji .image-shoot-4k {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-testimoji .image-shoot-4k {
+		width: 724px;
+		height: 400px;
+		background-size: 724px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-shoot-4k {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-testimoji .image-shoot-4k {
+		width: 414px;
+		height: 358px;
+		background-size: 414px 358px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_S.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-shoot-4k {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_S.jpg");
+	}
+}
+
+.section-testimoji .image-gamer {
+	width: 1400px;
+	height: 550px;
+	background-size: 1400px 550px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-testimoji .image-gamer {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-testimoji .image-gamer {
+		width: 724px;
+		height: 400px;
+		background-size: 724px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-gamer {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-testimoji .image-gamer {
+		width: 414px;
+		height: 358px;
+		background-size: 414px 358px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_S.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-gamer {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_S.jpg");
+	}
+}
+
+.section-testimoji .image-durability-testimoji {
+	width: 1400px;
+	height: 550px;
+	background-size: 1400px 550px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_L.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-testimoji .image-durability-testimoji {
+		background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-testimoji .image-durability-testimoji {
+		width: 724px;
+		height: 400px;
+		background-size: 724px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-durability {
+		background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-testimoji .image-durability-testimoji {
+		width: 414px;
+		height: 358px;
+		background-size: 414px 358px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_S.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-durability-testimoji {
+		background-image: url("/in/iphone/switch/images/overview/full-width/03_testimoji_S.jpg");
+	}
+}
+.section-testimoji .image-switch-alt {
+	width: 1400px;
+	height: 550px;
+	background-size: 1400px 550px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-testimoji .image-switch-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-testimoji .image-switch-alt {
+		width: 724px;
+		height: 400px;
+		background-size: 724px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-switch-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-testimoji .image-switch-alt {
+		width: 414px;
+		height: 358px;
+		background-size: 414px 358px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_S.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-switch-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/01_testimoji_S.jpg");
+	}
+}
+.section-testimoji .image-reliability-alt {
+	width: 1400px;
+	height: 550px;
+	background-size: 1400px 550px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-testimoji .image-reliability-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-testimoji .image-reliability-alt {
+		width: 724px;
+		height: 400px;
+		background-size: 724px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-reliability-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_L.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-testimoji .image-reliability-alt {
+		width: 414px;
+		height: 358px;
+		background-size: 414px 358px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_S.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-testimoji .image-reliability-alt {
+		background-image: url("/in/iphone/switch/images/overview/full-width/02_testimoji_S.jpg");
+	}
+}
+
+@media only screen and (min-width: 735px) {
+	.section-buystrip-hero .buystrip-hero .help {
+		grid-column: span 6;
+		margin-top: 0;
+	}
+	.page-switch .section-buystrip-hero .buystrip-hero .help {
+		grid-column: span 6;
+		margin-top: 0;
+	}
+	.page-switch .buystrip-hero .help {
+		grid-column: span 6;
+		margin-top: 0;
+	}
+}
+/*@media only screen and (max-width: 1068px) {
+	.section-buystrip-hero .buystrip-hero .help {
+		margin-top: 0;
+	}
+	.page-switch .section-buystrip-hero .buystrip-hero .help {
+		margin-top: 0;
+	}
+}*/
+
+/*image display*/
+
+.image-display {
+	width: 389px;
+	height: 367px;
+	background-size: 389px 367px;
+	background-repeat: no-repeat;
+	background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_large.jpg");
+	bottom: -8px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.image-display {
+		background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_large_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.image-display {
+		width: 203px;
+		height: 192px;
+		background-size: 203px 192px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.image-display {
+		background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_medium_2x.jpg");
+	}
+}
+@media only screen and (max-width: 734px) {
+	.image-display {
+		width: 235px;
+		height: 222px;
+		background-size: 235px 222px;
+		background-repeat: no-repeat;
+		background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_small.jpg");
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.image-display {
+		background-image: url("/in/iphone/switch/images/overview/display__dd2u5fgm0ccy_small_2x.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.image-display {
+		bottom: 0;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.image-display {
+		bottom: 0;
+	}
+}
+/*.tile-display .tile-button .icon-light {
+	opacity: 1;
+}
+.tile-display .tile-button .icon-dark {
+	opacity: 0;
+}*/
+.main #switchers .section-testimony .section-content:after {
+	display: none;
+}
+.iphone-se-buystrip-hero.section-buystrip-hero {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.section-if-i-switch .switch-logo {
+	width: 262px;
+	height: 82px;
+	background-size: 262px 82px;
+	background-repeat: no-repeat;
+	background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_large.png);
+	display: inline-block;
+	margin-left: -3px;
+	margin-right: -5px;
+	margin-bottom: -4px;
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	.section-if-i-switch .switch-logo {
+		background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_large_2x.png);
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-if-i-switch .switch-logo {
+		width: 166px;
+		height: 53px;
+		background-size: 166px 53px;
+		background-repeat: no-repeat;
+		background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_medium.png);
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-if-i-switch .switch-logo {
+		background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_medium_2x.png);
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-if-i-switch .switch-logo {
+		width: 139px;
+		height: 44px;
+		background-size: 139px 44px;
+		background-repeat: no-repeat;
+		background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_small.png);
+	}
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-if-i-switch .switch-logo {
+		background-image: url(/in/iphone/switch/images/overview/if-i-switch/headline_switch__c8krohspea2q_small_2x.png);
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-if-i-switch .switch-logo {
+		margin-left: -1px;
+		margin-right: -3px;
+		margin-bottom: -2px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-if-i-switch .switch-logo {
+		margin-left: -4px;
+		margin-right: -4px;
+		margin-bottom: -1px;
+	}
+}
+.section-if-i-switch .hero-intro {
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-if-i-switch .hero-intro {
+		margin-top: 15px;
+		margin-bottom: 85px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-if-i-switch .hero-intro {
+		font-size: 17px;
+		line-height: 1.4705882353;
+		font-weight: 400;
+		letter-spacing: -0.022em;
+		font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+			sans-serif;
+		max-width: 260px;
+		margin-top: 24px;
+		margin-bottom: 44px;
+	}
+	.section-if-i-switch .hero-intro:lang(ar) {
+		letter-spacing: 0em;
+		font-family: SF Pro AR, SF Pro Gulf, SF Pro Text, SF Pro Icons,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(ja) {
+		letter-spacing: 0em;
+		font-family: SF Pro JP, SF Pro Text, SF Pro Icons,
+			Hiragino Kaku Gothic Pro, ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3, ãƒ¡ã‚¤ãƒªã‚ª,
+			Meiryo, ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯, Helvetica Neue, Helvetica, Arial,
+			sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(ko) {
+		line-height: 1.5882352941;
+		letter-spacing: 0em;
+		font-family: SF Pro KR, SF Pro Text, SF Pro Icons, Apple Gothic,
+			HY Gulim, MalgunGothic, HY Dotum, Lexi Gulim, Helvetica Neue,
+			Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(zh) {
+		letter-spacing: 0em;
+	}
+	.section-if-i-switch .hero-intro:lang(th) {
+		line-height: 1.3529611765;
+		letter-spacing: 0em;
+		font-family: SF Pro TH, SF Pro Text, SF Pro Icons, Helvetica Neue,
+			Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(zh-CN) {
+		font-family: SF Pro SC, SF Pro Text, SF Pro Icons, PingFang SC,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(zh-HK) {
+		font-family: SF Pro HK, SF Pro Text, SF Pro Icons, PingFang HK,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(zh-MO) {
+		font-family: SF Pro HK, SF Pro TC, SF Pro Text, SF Pro Icons,
+			PingFang HK, Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.section-if-i-switch .hero-intro:lang(zh-TW) {
+		font-family: SF Pro TC, SF Pro Text, SF Pro Icons, PingFang TC,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+}
+
+.typography-intro {
+	font-size: 21px;
+	line-height: 1.381002381;
+	font-weight: 400 !important;
+	letter-spacing: 0.011em;
+	font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+		sans-serif;
+}
+.typography-intro:lang(ja) {
+	line-height: 1.4286014286;
+	font-family: SF Pro JP, SF Pro Display, SF Pro Icons,
+		Hiragino Kaku Gothic Pro, ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3, ãƒ¡ã‚¤ãƒªã‚ª,
+		Meiryo, ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯, Helvetica Neue, Helvetica, Arial,
+		sans-serif;
+}
+.typography-intro:lang(ko) {
+	line-height: 1.5238095238;
+	font-family: SF Pro KR, SF Pro Display, SF Pro Icons, Apple Gothic, HY Gulim,
+		MalgunGothic, HY Dotum, Lexi Gulim, Helvetica Neue, Helvetica, Arial,
+		sans-serif;
+}
+.typography-intro:lang(th) {
+	line-height: 1.381002381;
+	font-family: SF Pro TH, SF Pro Display, SF Pro Icons, Helvetica Neue,
+		Helvetica, Arial, sans-serif;
+}
+.typography-intro:lang(ar) {
+	font-family: SF Pro AR, SF Pro Gulf, SF Pro Display, SF Pro Icons,
+		Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.typography-intro:lang(zh-CN) {
+	font-family: SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC,
+		Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.typography-intro:lang(zh-HK) {
+	font-family: SF Pro HK, SF Pro Display, SF Pro Icons, PingFang HK,
+		Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.typography-intro:lang(zh-MO) {
+	font-family: SF Pro HK, SF Pro TC, SF Pro Display, SF Pro Icons, PingFang HK,
+		Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.typography-intro:lang(zh-TW) {
+	font-family: SF Pro TC, SF Pro Display, SF Pro Icons, PingFang TC,
+		Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+@media only screen and (max-width: 734px) {
+	.typography-intro {
+		font-size: 19px;
+		line-height: 1.4211026316;
+		font-weight: 400;
+		letter-spacing: 0.012em;
+		font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica,
+			Arial, sans-serif;
+	}
+	.typography-intro:lang(ja) {
+		line-height: 1.4737642105;
+		font-family: SF Pro JP, SF Pro Display, SF Pro Icons,
+			Hiragino Kaku Gothic Pro, ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3, ãƒ¡ã‚¤ãƒªã‚ª,
+			Meiryo, ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯, Helvetica Neue, Helvetica, Arial,
+			sans-serif;
+	}
+	.typography-intro:lang(ko) {
+		line-height: 1.5263157895;
+		font-family: SF Pro KR, SF Pro Display, SF Pro Icons, Apple Gothic,
+			HY Gulim, MalgunGothic, HY Dotum, Lexi Gulim, Helvetica Neue,
+			Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(th) {
+		line-height: 1.3684410526;
+		font-family: SF Pro TH, SF Pro Display, SF Pro Icons, Helvetica Neue,
+			Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(ar) {
+		font-family: SF Pro AR, SF Pro Gulf, SF Pro Display, SF Pro Icons,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(zh-CN) {
+		font-family: SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(zh-HK) {
+		font-family: SF Pro HK, SF Pro Display, SF Pro Icons, PingFang HK,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(zh-MO) {
+		font-family: SF Pro HK, SF Pro TC, SF Pro Display, SF Pro Icons,
+			PingFang HK, Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+	.typography-intro:lang(zh-TW) {
+		font-family: SF Pro TC, SF Pro Display, SF Pro Icons, PingFang TC,
+			Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+}
+
+ 
+@media only screen and (max-width: 1068px) {
+	.image-trade-in {
+		bottom: 4px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.image-trade-in {
+		bottom: 3px;
+	}
+}
+
+.grid-wrapper-alt-line-wrap .tile-imessage .tile-headline {
+	max-width: none;
+}
+
+.image-safety {
+    background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and(-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx) {
+    .image-safety {
+        background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-safety {
+        background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+    .image-safety {
+        background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-safety {
+        background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 734px) and(min-resolution: 1.5dppx), only screen and(max-width: 734px) and(min-resolution: 144dpi) {
+    .image-safety {
+        background-image:url(/in/iphone/switch/images/overview/safety__bxliv7ldxziq_small_2x.jpg)
+    }
+}
+
+
+/*5g*/
+.section-features .image-5g {
+    width: 690px;
+    height: 550px;
+    background-size: 690px 550px;
+    background-repeat: no-repeat;
+    background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_large.jpg");
+    bottom: 25px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-features .image-5g {
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_large_2x.jpg");
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-features .image-5g {
+        width: 357px;
+        height: 273px;
+        background-size: 357px 273px;
+        background-repeat: no-repeat;
+        bottom: 40px;
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_medium.jpg");
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-features .image-5g {
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_medium_2x.jpg");
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-features .image-5g {
+        width: 414px;
+        height: 357px;
+        background-size: 414px 357px;
+        background-repeat: no-repeat;
+        bottom: 0px;
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_small.jpg");
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-features .image-5g {
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_small_2x.jpg");
+    }
+}
+@media only screen and (max-width: 321px) {
+    .section-features .image-5g {
+        width: 414px;
+        height: 358px;
+        background-size: 414px 358px;
+        background-repeat: no-repeat;
+        bottom: 0px;
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_xmall.jpg");
+    }
+}
+@media only screen and (max-width: 321px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 321px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 321px) and (min-resolution: 144dpi) {
+    .section-features .image-5g {
+        background-image: url("/in/iphone/switch/images/overview/5g__fohrak5lg526_xmall_2x.jpg");
+    }
+}
+
+
+ 
+
+.section-compare .compare-table {
+    max-width: 940px;
+    margin-top: 68px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(10, auto);
+    grid-row-gap: 40px;
+    grid-column-gap: 34px;
+    grid-template-areas: "iphone-14-pro-device iphone-14-device iphone-13-device iphone-se-device" "iphone-14-pro-display iphone-14-display iphone-13-display iphone-se-display" "iphone-14-pro-dynamic-island iphone-14-dynamic-island iphone-13-dynamic-island iphone-se-dynamic-island" "iphone-14-pro-sos iphone-14-sos iphone-13-sos iphone-se-sos" "iphone-14-pro-camera iphone-14-camera iphone-13-camera iphone-se-camera" "iphone-14-pro-action-mode iphone-14-action-mode iphone-13-action-mode iphone-se-action-mode" "iphone-14-pro-cellular iphone-14-cellular iphone-13-cellular iphone-se-cellular" "iphone-14-pro-battery iphone-14-battery iphone-13-battery iphone-se-battery" "iphone-14-pro-chip iphone-14-chip iphone-13-chip iphone-se-chip" "iphone-14-pro-authentication iphone-14-authentication iphone-13-authentication iphone-se-authentication" 
+}
+@media only screen and (max-width:1068px) {
+    .section-compare .compare-table {
+        margin-top: 52px;
+        grid-column-gap: 75px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(20, auto);
+        grid-template-areas: "iphone-14-pro-device iphone-14-device" "iphone-14-pro-display iphone-14-display" "iphone-14-pro-dynamic-island iphone-14-dynamic-island" "iphone-14-pro-sos iphone-14-sos" "iphone-14-pro-camera iphone-14-camera" "iphone-14-pro-action-mode iphone-14-action-mode"  "iphone-14-pro-cellular iphone-14-cellular" "iphone-14-pro-battery iphone-14-battery" "iphone-14-pro-chip iphone-14-chip" "iphone-14-pro-authentication iphone-14-authentication"  "iphone-13-device iphone-se-device" "iphone-13-display iphone-se-display" "iphone-13-dynamic-island iphone-se-dynamic-island" "iphone-13-sos iphone-se-sos" "iphone-13-camera iphone-se-camera"  "iphone-13-action-mode iphone-se-action-mode" "iphone-13-cellular iphone-se-cellular" "iphone-13-battery iphone-se-battery" "iphone-13-chip iphone-se-chip" "iphone-13-authentication iphone-se-authentication" 
+    }
+}
+html.text-zoom .section-compare .compare-table {
+    margin-top: 52px;
+    grid-column-gap: 75px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(20, auto);
+}
+
+
+.section-compare .cellular{
+	border-bottom: none;
+	padding-bottom:0;
+	margin-bottom: 0;
+}
+
+.section-compare .authentication {
+    border-bottom: 1px solid #d2d2d7;
+    margin-bottom: 3px;
+    padding-bottom: 45px;
+}
+
+@media only screen and (max-width: 734px){
+	.main .section-testimonies-tiles {
+		padding-top: 0;
+	}}
+
+
+	@media only screen and (max-width: 734px){
+.section-compare .links-stacked {
+    margin-top: 50px;
+}}
+
+#testimony-2.testimony-2 {
+	display:none;
+}
